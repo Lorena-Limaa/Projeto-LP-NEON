@@ -1,5 +1,4 @@
 # NEON Landing Page
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/Lorena-Limaa/Projeto-LP-NEON/blob/main/LICENSE)
 
 # Sobre o projeto
 
